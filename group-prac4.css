@@ -6,3 +6,20 @@ body{
   padding: 20px;
   box-shadow:0 4px 8px 0 rgba(0,0,0,0.5);
 }
+
+h1{
+  font-family: Algerian;
+  font-size: 40px;
+}
+
+h2{
+  font-family: Arial;
+
+}
+h3{
+  font-family: Verdana;
+}
+
+h4,h5,h6{
+  font-family: Consolas;
+}
